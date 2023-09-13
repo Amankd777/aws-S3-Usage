@@ -2,10 +2,6 @@
 
 This is a simple web application that demonstrates how to interact with Amazon Web Services (AWS) S3 for file storage. Users can upload, list, download, and delete files from an S3 bucket directly from the web browser.
 
-## Demo
-
-You can try out a live demo of this application [here](link-to-demo).
-
 ## Features
 
 - Upload files to an AWS S3 bucket.
